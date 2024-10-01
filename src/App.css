@@ -1,0 +1,92 @@
+* 
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+body {
+  background-image: url('/src/background1.jpg'); /* Đường dẫn tới ảnh nền */
+  background-size: cover; /* Đảm bảo ảnh nền bao phủ toàn bộ màn hình */
+  background-position: center; /* Căn giữa ảnh nền */
+  background-repeat: no-repeat; /* Không lặp lại ảnh */
+  height: 100vh; /* Đảm bảo chiều cao toàn trang */
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+.app-container 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+.login-container, .register-container 
+{
+  background-color: #1C2524;
+  padding: 40px;
+  color: #fff;
+  border-radius: 15px;
+  width: 400px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #2E3D3C;
+  color: white;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #2E9A6F;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.link 
+{
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.message 
+{
+  margin-top: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.message.success {
+  color: green;
+}
+
+.message.error {
+  color: red;
+}
