@@ -60,6 +60,7 @@ E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL
 E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.genruntimeconfig.cache
 E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\ref\BMCSDL_DoAn.dll
 E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.FormCreatePassword.resources
+<<<<<<< HEAD
 D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.exe
 D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.deps.json
 D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.runtimeconfig.json
@@ -94,3 +95,5 @@ D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows
 D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\ref\BMCSDL_DoAn.dll
 D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.TrangChu.resources
 D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.ShowPassWord.resources
+=======
+>>>>>>> bc242820f9cb2ea6c3111ec1d60235386c111c08

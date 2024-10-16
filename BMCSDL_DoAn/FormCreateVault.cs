@@ -7,8 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+<<<<<<< HEAD
 using System.Net.Http;
 using Newtonsoft.Json;
+=======
+>>>>>>> bc242820f9cb2ea6c3111ec1d60235386c111c08
 
 namespace BMCSDL_DoAn
 {
@@ -18,7 +21,31 @@ namespace BMCSDL_DoAn
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
         private static readonly HttpClient client = new HttpClient();
+=======
+
+        private void btnCreateVault_Click(object sender, EventArgs e)
+        {
+            // Lấy tên kho lưu trữ từ TextBox
+            string vaultName = txtVaultName.Text;
+
+            // Kiểm tra dữ liệu có hợp lệ không
+            if (string.IsNullOrWhiteSpace(vaultName))
+            {
+                MessageBox.Show("Vui lòng nhập tên kho lưu trữ!");
+                return;
+            }
+
+            // Thực hiện hành động tạo kho lưu trữ (lưu vào cơ sở dữ liệu hoặc file)
+            // Ví dụ đơn giản: hiện thông báo đã tạo kho lưu trữ thành công
+            MessageBox.Show($"Kho lưu trữ '{vaultName}' đã được tạo thành công!");
+
+            // Xóa trắng ô nhập liệu sau khi tạo thành công
+            txtVaultName.Clear();
+        }
+
+>>>>>>> bc242820f9cb2ea6c3111ec1d60235386c111c08
         private void btnSelectImage_Click(object sender, EventArgs e)
         {
             using (OpenFileDialog openFileDialog = new OpenFileDialog())
@@ -38,6 +65,7 @@ namespace BMCSDL_DoAn
                 }
             }
         }
+<<<<<<< HEAD
         private async void btnCreate_Click(object sender, EventArgs e)
         {
             string vaultName = txtVaultName.Text.Trim();
@@ -92,5 +120,7 @@ namespace BMCSDL_DoAn
             TrangChu tChu = new TrangChu();
             tChu.Show();
         }
+=======
+>>>>>>> bc242820f9cb2ea6c3111ec1d60235386c111c08
     }
 }

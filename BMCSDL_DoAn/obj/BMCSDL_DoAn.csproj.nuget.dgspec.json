@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\KoongTan\\Visual studio\\CSad\\BMCSDL\\winform\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj": {}
   },
   "projects": {
@@ -12,9 +13,26 @@
         "projectPath": "D:\\KoongTan\\Visual studio\\CSad\\BMCSDL\\winform\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj",
         "packagesPath": "C:\\Users\\lecon\\.nuget\\packages\\",
         "outputPath": "D:\\KoongTan\\Visual studio\\CSad\\BMCSDL\\winform\\BMCSDL_DoAn\\obj\\",
+=======
+    "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj": {}
+  },
+  "projects": {
+    "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj",
+        "projectName": "BMCSDL_DoAn",
+        "projectPath": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj",
+        "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
+        "outputPath": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\obj\\",
+>>>>>>> bc242820f9cb2ea6c3111ec1d60235386c111c08
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lecon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +52,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -76,7 +99,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

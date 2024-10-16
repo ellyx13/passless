@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿using Newtonsoft.Json;
 using System;
+=======
+﻿using System;
+>>>>>>> bc242820f9cb2ea6c3111ec1d60235386c111c08
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,6 +23,24 @@ namespace BMCSDL_DoAn
             InitializeComponent();
         }
 
+<<<<<<< HEAD
+=======
+        private void FormCreatePassword_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+>>>>>>> bc242820f9cb2ea6c3111ec1d60235386c111c08
         private void btnSavePassword_Click(object sender, EventArgs e)
         {
             // Lấy dữ liệu từ các TextBox
@@ -33,6 +55,11 @@ namespace BMCSDL_DoAn
                 return;
             }
 
+<<<<<<< HEAD
+=======
+            // Thực hiện hành động lưu mật khẩu (lưu vào file hoặc cơ sở dữ liệu)
+            // Ví dụ đơn giản: hiện thông báo đã lưu thành công
+>>>>>>> bc242820f9cb2ea6c3111ec1d60235386c111c08
             MessageBox.Show("Mật khẩu đã được lưu thành công!");
 
             // Sau khi lưu thành công, có thể xóa trắng các ô nhập liệu
@@ -40,6 +67,7 @@ namespace BMCSDL_DoAn
             txtUsername.Clear();
             txtPassword.Clear();
         }
+<<<<<<< HEAD
         private void btnTaoMK_Click(object sender, EventArgs e)
         {
             string name = txtName.Text;
@@ -71,6 +99,12 @@ namespace BMCSDL_DoAn
             File.WriteAllText(filePath, json);
 
             MessageBox.Show("Thông tin đã được lưu vào file: " + filePath);
+=======
+
+        private void txtPassword_TextChanged(object sender, EventArgs e)
+        {
+
+>>>>>>> bc242820f9cb2ea6c3111ec1d60235386c111c08
         }
     }
 }

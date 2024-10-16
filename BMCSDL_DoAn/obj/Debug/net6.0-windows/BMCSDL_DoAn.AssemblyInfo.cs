@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BMCSDL_DoAn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9d56e7ae9795c847d1154d6e3e5d8c994b7edc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BMCSDL_DoAn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BMCSDL_DoAn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -78,5 +78,15 @@ namespace BMCSDL_DoAn
             this.Hide();
             FaceLog.Show();
         }
+
+        private void txtPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtEmail_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
