@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vgA4oBk4T0jvhi9PB47Ev+fCeDCykhox3yKqkyZBCV4ybEvYgrLm3X0lGB1Pf4I+2i+WLUcPSS1Wgdf2bVAyrw==",
+  "dgSpecHash": "wvhwmwhhpFi2iB3mLBI8lxAsKh7sftiUJ5R6pEqRiriLr4kZxQliXZiTkgUwmdoLDlpIzAAKKuK5ujO6BBJbvQ==",
   "success": true,
-  "projectFilePath": "D:\\KoongTan\\Visual studio\\CSad\\BMCSDL_DoAn\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj",
+  "projectFilePath": "D:\\KoongTan\\Visual studio\\CSad\\BMCSDL\\winform\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lecon\\.nuget\\packages\\emgu.cv\\4.9.0.5494\\emgu.cv.4.9.0.5494.nupkg.sha512",
     "C:\\Users\\lecon\\.nuget\\packages\\emgu.cv.bitmap\\4.9.0.5494\\emgu.cv.bitmap.4.9.0.5494.nupkg.sha512",

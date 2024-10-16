@@ -1751,11 +1751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KoongTan\\Visual studio\\CSad\\BMCSDL_DoAn\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj",
+      "projectUniqueName": "D:\\KoongTan\\Visual studio\\CSad\\BMCSDL\\winform\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj",
       "projectName": "BMCSDL_DoAn",
-      "projectPath": "D:\\KoongTan\\Visual studio\\CSad\\BMCSDL_DoAn\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj",
+      "projectPath": "D:\\KoongTan\\Visual studio\\CSad\\BMCSDL\\winform\\BMCSDL_DoAn\\BMCSDL_DoAn.csproj",
       "packagesPath": "C:\\Users\\lecon\\.nuget\\packages\\",
-      "outputPath": "D:\\KoongTan\\Visual studio\\CSad\\BMCSDL_DoAn\\BMCSDL_DoAn\\obj\\",
+      "outputPath": "D:\\KoongTan\\Visual studio\\CSad\\BMCSDL\\winform\\BMCSDL_DoAn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lecon\\AppData\\Roaming\\NuGet\\NuGet.Config",

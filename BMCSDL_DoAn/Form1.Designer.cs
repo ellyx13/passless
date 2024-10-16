@@ -42,10 +42,10 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 20F);
+            label1.Font = new Font("Segoe UI Semibold", 24F, FontStyle.Bold, GraphicsUnit.Point, 163);
             label1.Location = new Point(317, 37);
             label1.Name = "label1";
-            label1.Size = new Size(148, 37);
+            label1.Size = new Size(181, 45);
             label1.TabIndex = 0;
             label1.Text = "Đăng nhập";
             // 
@@ -64,6 +64,7 @@
             txtPassword.Name = "txtPassword";
             txtPassword.Size = new Size(264, 44);
             txtPassword.TabIndex = 2;
+            txtPassword.UseSystemPasswordChar = true;
             // 
             // label2
             // 
@@ -117,13 +118,14 @@
             // 
             // btnDangnhap
             // 
+            btnDangnhap.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 163);
             btnDangnhap.Location = new Point(340, 254);
             btnDangnhap.Name = "btnDangnhap";
-            btnDangnhap.Size = new Size(91, 33);
+            btnDangnhap.Size = new Size(122, 33);
             btnDangnhap.TabIndex = 8;
             btnDangnhap.Text = "Đăng nhập";
             btnDangnhap.UseVisualStyleBackColor = true;
-            btnDangnhap.Click += btnDangnhap_Click;
+            btnDangnhap.Click += btnLogin_Click;
             // 
             // Form1
             // 

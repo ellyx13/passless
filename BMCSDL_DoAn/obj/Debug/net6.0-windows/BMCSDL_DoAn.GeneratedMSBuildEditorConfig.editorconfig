@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BMCSDL_DoAn
-build_property.ProjectDir = D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\
+build_property.ProjectDir = D:\KoongTan\Visual studio\CSad\BMCSDL\winform\BMCSDL_DoAn\

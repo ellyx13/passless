@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Subject\\database_security\\winform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|e:\\subject\\database_security\\winform\\bmcsdl_doan\\formcreatevault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|solutionrelative:bmcsdl_doan\\formcreatevault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|e:\\subject\\database_security\\winform\\bmcsdl_doan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|solutionrelative:bmcsdl_doan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|e:\\subject\\database_security\\winform\\bmcsdl_doan\\formcreatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|solutionrelative:bmcsdl_doan\\formcreatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|E:\\Subject\\database_security\\winform\\bmcsdl_doan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|solutionrelative:bmcsdl_doan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|E:\\Subject\\database_security\\winform\\bmcsdl_doan\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|solutionrelative:bmcsdl_doan\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|e:\\subject\\database_security\\winform\\bmcsdl_doan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|solutionrelative:bmcsdl_doan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|e:\\subject\\database_security\\winform\\bmcsdl_doan\\facelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|solutionrelative:bmcsdl_doan\\facelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|e:\\subject\\database_security\\winform\\bmcsdl_doan\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|solutionrelative:bmcsdl_doan\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|E:\\Subject\\database_security\\winform\\bmcsdl_doan\\facelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8795826-AF64-4C4A-BF4D-CE3B4D734504}|BMCSDL_DoAn\\BMCSDL_DoAn.csproj|solutionrelative:bmcsdl_doan\\facelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCreateVault.cs [Design]",
+              "DocumentMoniker": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\FormCreateVault.cs",
+              "RelativeDocumentMoniker": "BMCSDL_DoAn\\FormCreateVault.cs",
+              "ToolTip": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\FormCreateVault.cs [Design]",
+              "RelativeToolTip": "BMCSDL_DoAn\\FormCreateVault.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:48:31.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\Program.cs",
+              "RelativeDocumentMoniker": "BMCSDL_DoAn\\Program.cs",
+              "ToolTip": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\Program.cs",
+              "RelativeToolTip": "BMCSDL_DoAn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:01:16.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCreatePassword.cs [Design]",
+              "DocumentMoniker": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\FormCreatePassword.cs",
+              "RelativeDocumentMoniker": "BMCSDL_DoAn\\FormCreatePassword.cs",
+              "ToolTip": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\FormCreatePassword.cs [Design]",
+              "RelativeToolTip": "BMCSDL_DoAn\\FormCreatePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:07:05.905Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\Register.cs",
+              "RelativeDocumentMoniker": "BMCSDL_DoAn\\Register.cs",
+              "ToolTip": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\Register.cs [Design]",
+              "RelativeToolTip": "BMCSDL_DoAn\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:40:49.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\Form1.cs",
+              "RelativeDocumentMoniker": "BMCSDL_DoAn\\Form1.cs",
+              "ToolTip": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\Form1.cs [Design]",
+              "RelativeToolTip": "BMCSDL_DoAn\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:40:49.815Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FaceLogin.cs",
+              "DocumentMoniker": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\FaceLogin.cs",
+              "RelativeDocumentMoniker": "BMCSDL_DoAn\\FaceLogin.cs",
+              "ToolTip": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\FaceLogin.cs",
+              "RelativeToolTip": "BMCSDL_DoAn\\FaceLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:40:49.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\Form1.cs",
+              "RelativeDocumentMoniker": "BMCSDL_DoAn\\Form1.cs",
+              "ToolTip": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\Form1.cs",
+              "RelativeToolTip": "BMCSDL_DoAn\\Form1.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAMwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:40:49.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\Register.cs",
+              "RelativeDocumentMoniker": "BMCSDL_DoAn\\Register.cs",
+              "ToolTip": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\Register.cs",
+              "RelativeToolTip": "BMCSDL_DoAn\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:40:49.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FaceLogin.cs [Design]",
+              "DocumentMoniker": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\FaceLogin.cs",
+              "RelativeDocumentMoniker": "BMCSDL_DoAn\\FaceLogin.cs",
+              "ToolTip": "E:\\Subject\\database_security\\winform\\BMCSDL_DoAn\\FaceLogin.cs [Design]",
+              "RelativeToolTip": "BMCSDL_DoAn\\FaceLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:40:49.815Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

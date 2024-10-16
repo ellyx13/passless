@@ -26,8 +26,8 @@ namespace BMCSDL_DoAn
             }
             var loginData = new
             {
-                Email = email,
-                Password = password
+                email = email,
+                password = password
             };
             string jsonData = JsonConvert.SerializeObject(loginData);
             //Call API
@@ -51,7 +51,8 @@ namespace BMCSDL_DoAn
                 else
                 {
                     // Xử lý khi đăng nhập thất bại
-                    MessageBox.Show("Email hoặc mật khẩu không đúng!");
+                    string errorMessage = await response.Content.ReadAsStringAsync();
+                    MessageBox.Show($"Đăng nhập thất bại: {errorMessage}");
                 }
             }
         }
@@ -63,6 +64,12 @@ namespace BMCSDL_DoAn
             this.Hide();
             formDangKy.Show();
 
+        }
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            TrangChu tCHu = new TrangChu();
+            tCHu.Show();
         }
 
         private void btnFacelog_Click(object sender, EventArgs e)
