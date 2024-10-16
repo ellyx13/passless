@@ -40,9 +40,11 @@
             // 
             // btnDangKy
             // 
-            btnDangKy.Location = new Point(353, 269);
+            btnDangKy.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            btnDangKy.Location = new Point(403, 359);
+            btnDangKy.Margin = new Padding(3, 4, 3, 4);
             btnDangKy.Name = "btnDangKy";
-            btnDangKy.Size = new Size(93, 42);
+            btnDangKy.Size = new Size(134, 56);
             btnDangKy.TabIndex = 13;
             btnDangKy.Text = "Đăng ký";
             btnDangKy.UseVisualStyleBackColor = true;
@@ -51,72 +53,75 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 13F, FontStyle.Regular, GraphicsUnit.Point);
-            label3.Location = new Point(164, 228);
+            label3.Font = new Font("Segoe UI", 13F);
+            label3.Location = new Point(187, 304);
             label3.Name = "label3";
-            label3.Size = new Size(90, 25);
+            label3.Size = new Size(107, 30);
             label3.TabIndex = 11;
             label3.Text = "PassWord";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 13F, FontStyle.Regular, GraphicsUnit.Point);
-            label2.Location = new Point(164, 103);
+            label2.Font = new Font("Segoe UI", 13F);
+            label2.Location = new Point(187, 137);
             label2.Name = "label2";
-            label2.Size = new Size(58, 25);
+            label2.Size = new Size(69, 30);
             label2.TabIndex = 10;
             label2.Text = "Email:";
             // 
             // txtPassword
             // 
-            txtPassword.Location = new Point(287, 219);
+            txtPassword.Location = new Point(328, 292);
+            txtPassword.Margin = new Padding(3, 4, 3, 4);
             txtPassword.Multiline = true;
             txtPassword.Name = "txtPassword";
-            txtPassword.Size = new Size(264, 44);
+            txtPassword.Size = new Size(301, 57);
             txtPassword.TabIndex = 9;
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(287, 94);
+            txtEmail.Location = new Point(328, 125);
+            txtEmail.Margin = new Padding(3, 4, 3, 4);
             txtEmail.Multiline = true;
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(264, 44);
+            txtEmail.Size = new Size(301, 57);
             txtEmail.TabIndex = 8;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 20F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(353, 28);
+            label1.Font = new Font("Segoe UI Semibold", 24F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label1.Location = new Point(403, 37);
             label1.Name = "label1";
-            label1.Size = new Size(114, 37);
+            label1.Size = new Size(172, 54);
             label1.TabIndex = 7;
             label1.Text = "Đăng ký";
             // 
             // label5
             // 
             label5.AutoSize = true;
-            label5.Font = new Font("Segoe UI", 13F, FontStyle.Regular, GraphicsUnit.Point);
-            label5.Location = new Point(164, 165);
+            label5.Font = new Font("Segoe UI", 13F);
+            label5.Location = new Point(187, 220);
             label5.Name = "label5";
-            label5.Size = new Size(94, 25);
+            label5.Size = new Size(115, 30);
             label5.TabIndex = 15;
             label5.Text = "UserName";
             // 
             // txtFullname
             // 
-            txtFullname.Location = new Point(287, 156);
+            txtFullname.Location = new Point(328, 208);
+            txtFullname.Margin = new Padding(3, 4, 3, 4);
             txtFullname.Multiline = true;
             txtFullname.Name = "txtFullname";
-            txtFullname.Size = new Size(264, 44);
+            txtFullname.Size = new Size(301, 57);
             txtFullname.TabIndex = 14;
             // 
             // Register
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(796, 427);
+            ClientSize = new Size(910, 569);
             Controls.Add(label5);
             Controls.Add(txtFullname);
             Controls.Add(btnDangKy);
@@ -125,6 +130,7 @@
             Controls.Add(txtPassword);
             Controls.Add(txtEmail);
             Controls.Add(label1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Register";
             Text = "Register";
             ResumeLayout(false);

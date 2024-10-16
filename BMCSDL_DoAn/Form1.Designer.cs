@@ -42,36 +42,41 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 20F);
-            label1.Location = new Point(317, 37);
+            label1.Font = new Font("Segoe UI Semibold", 24F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label1.Location = new Point(362, 49);
             label1.Name = "label1";
-            label1.Size = new Size(148, 37);
+            label1.Size = new Size(222, 54);
             label1.TabIndex = 0;
             label1.Text = "Đăng nhập";
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(260, 126);
+            txtEmail.Location = new Point(297, 168);
+            txtEmail.Margin = new Padding(3, 4, 3, 4);
             txtEmail.Multiline = true;
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(264, 44);
+            txtEmail.Size = new Size(301, 57);
             txtEmail.TabIndex = 1;
+            txtEmail.TextChanged += txtEmail_TextChanged;
             // 
             // txtPassword
             // 
-            txtPassword.Location = new Point(260, 191);
+            txtPassword.Location = new Point(297, 255);
+            txtPassword.Margin = new Padding(3, 4, 3, 4);
             txtPassword.Multiline = true;
             txtPassword.Name = "txtPassword";
-            txtPassword.Size = new Size(264, 44);
+            txtPassword.Size = new Size(301, 57);
             txtPassword.TabIndex = 2;
+            txtPassword.UseSystemPasswordChar = true;
+            txtPassword.TextChanged += txtPassword_TextChanged;
             // 
             // label2
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 13F);
-            label2.Location = new Point(137, 135);
+            label2.Location = new Point(157, 180);
             label2.Name = "label2";
-            label2.Size = new Size(58, 25);
+            label2.Size = new Size(69, 30);
             label2.TabIndex = 3;
             label2.Text = "Email:";
             // 
@@ -79,9 +84,9 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 13F);
-            label3.Location = new Point(137, 200);
+            label3.Location = new Point(157, 267);
             label3.Name = "label3";
-            label3.Size = new Size(90, 25);
+            label3.Size = new Size(107, 30);
             label3.TabIndex = 4;
             label3.Text = "PassWord";
             // 
@@ -89,17 +94,18 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 13F);
-            label4.Location = new Point(280, 310);
+            label4.Location = new Point(320, 413);
             label4.Name = "label4";
-            label4.Size = new Size(163, 25);
+            label4.Size = new Size(196, 30);
             label4.TabIndex = 5;
             label4.Text = "Chưa có tài khoản?";
             // 
             // btnDangky
             // 
-            btnDangky.Location = new Point(449, 312);
+            btnDangky.Location = new Point(513, 416);
+            btnDangky.Margin = new Padding(3, 4, 3, 4);
             btnDangky.Name = "btnDangky";
-            btnDangky.Size = new Size(75, 23);
+            btnDangky.Size = new Size(86, 31);
             btnDangky.TabIndex = 6;
             btnDangky.Text = "Đăng ký";
             btnDangky.UseVisualStyleBackColor = true;
@@ -107,9 +113,10 @@
             // 
             // btnFacelog
             // 
-            btnFacelog.Location = new Point(618, 12);
+            btnFacelog.Location = new Point(706, 16);
+            btnFacelog.Margin = new Padding(3, 4, 3, 4);
             btnFacelog.Name = "btnFacelog";
-            btnFacelog.Size = new Size(170, 23);
+            btnFacelog.Size = new Size(194, 31);
             btnFacelog.TabIndex = 7;
             btnFacelog.Text = "Đăng Nhập bằng khuôn mặt";
             btnFacelog.UseVisualStyleBackColor = true;
@@ -117,9 +124,11 @@
             // 
             // btnDangnhap
             // 
-            btnDangnhap.Location = new Point(340, 254);
+            btnDangnhap.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            btnDangnhap.Location = new Point(389, 339);
+            btnDangnhap.Margin = new Padding(3, 4, 3, 4);
             btnDangnhap.Name = "btnDangnhap";
-            btnDangnhap.Size = new Size(91, 33);
+            btnDangnhap.Size = new Size(140, 44);
             btnDangnhap.TabIndex = 8;
             btnDangnhap.Text = "Đăng nhập";
             btnDangnhap.UseVisualStyleBackColor = true;
@@ -127,9 +136,9 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(btnDangnhap);
             Controls.Add(btnFacelog);
             Controls.Add(btnDangky);
@@ -139,6 +148,7 @@
             Controls.Add(txtPassword);
             Controls.Add(txtEmail);
             Controls.Add(label1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
