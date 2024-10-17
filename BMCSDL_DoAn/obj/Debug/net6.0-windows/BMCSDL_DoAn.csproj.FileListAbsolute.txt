@@ -1,0 +1,130 @@
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.exe
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.deps.json
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.runtimeconfig.json
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.pdb
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.AssemblyReference.cache
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.Form1.resources
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.Register.resources
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.GenerateResource.cache
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.GeneratedMSBuildEditorConfig.editorconfig
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.AssemblyInfoInputs.cache
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.AssemblyInfo.cs
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.CoreCompileInputs.cache
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\refint\BMCSDL_DoAn.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.pdb
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.genruntimeconfig.cache
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\ref\BMCSDL_DoAn.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.CopyComplete
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetCore.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\KoongTan\Visual studio\CSad\BMCSDL_DoAn\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.FaceLogin.resources
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.exe
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.deps.json
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.runtimeconfig.json
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.pdb
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetCore.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.AssemblyReference.cache
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.FaceLogin.resources
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.Form1.resources
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.Register.resources
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.GenerateResource.cache
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.AssemblyInfoInputs.cache
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.AssemblyInfo.cs
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.CoreCompileInputs.cache
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.sourcelink.json
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_D.06FA6BE8.Up2Date
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\refint\BMCSDL_DoAn.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.pdb
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.genruntimeconfig.cache
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\ref\BMCSDL_DoAn.dll
+E:\Subject\database_security\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.FormCreatePassword.resources
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.exe
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.deps.json
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.runtimeconfig.json
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.pdb
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetCore.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.AssemblyReference.cache
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.FaceLogin.resources
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.Form1.resources
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.FormCreatePassword.resources
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.FormCreateVault.resources
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.Register.resources
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.GenerateResource.cache
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.GeneratedMSBuildEditorConfig.editorconfig
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.AssemblyInfoInputs.cache
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.AssemblyInfo.cs
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.CoreCompileInputs.cache
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.CopyComplete
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\refint\BMCSDL_DoAn.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.pdb
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.genruntimeconfig.cache
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\ref\BMCSDL_DoAn.dll
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.TrangChu.resources
+D:\KoongTan\Visual studio\CSad\DoAN\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.ShowPassWord.resources
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.exe
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.deps.json
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.runtimeconfig.json
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\BMCSDL_DoAn.pdb
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetCore.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.AssemblyReference.cache
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.FaceLogin.resources
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.Form1.resources
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.FormCreatePassword.resources
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.FormCreateVault.resources
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.Register.resources
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.ShowPassWord.resources
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.TrangChu.resources
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.GenerateResource.cache
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.AssemblyInfoInputs.cache
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.AssemblyInfo.cs
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.CoreCompileInputs.cache
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.csproj.CopyComplete
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\refint\BMCSDL_DoAn.dll
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.pdb
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\BMCSDL_DoAn.genruntimeconfig.cache
+C:\Users\lecon\Downloads\winform\winform\BMCSDL_DoAn\obj\Debug\net6.0-windows\ref\BMCSDL_DoAn.dll
